@@ -1,0 +1,71 @@
+[
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?lawrievetgroup\\.co\\.uk[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "[id=js-consent-wrapper], body:style(overflow: auto !important;)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?svonm\\.com/hd-main\\.js",
+		"resource-type": [
+			"script"
+		],
+		"if-domain": [
+			"*kicker.de",
+			"*kino.de",
+			"*videos.giga.de",
+			"*video.spieletipps.de"
+		]
+	},
+	"action": {
+		"type": "ignore-previous-rules"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?fwmrm\\.net/.*/fox_live/AdManager\\.js",
+		"resource-type": [
+			"script"
+		],
+		"if-domain": [
+			"*nationalgeographic.com"
+		]
+	},
+	"action": {
+		"type": "ignore-previous-rules"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?adswizz\\.com/anon\\.npr-mp3/",
+		"resource-type": [
+			"media"
+		],
+		"if-domain": [
+			"*podbay.fm"
+		]
+	},
+	"action": {
+		"type": "ignore-previous-rules"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?adswizz\\.com/anon\\.npr-podcasts/",
+		"resource-type": [
+			"media"
+		],
+		"if-domain": [
+			"*podbay.fm"
+		]
+	},
+	"action": {
+		"type": "ignore-previous-rules"
+	}
+}
+]

@@ -1,0 +1,720 @@
+[
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?csgoconfigs\\.com[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(acis, m, CH.Anonymous)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?vidzi\\.tv[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopw, decodeURIComponent)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?tubettajat\\.net[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, miner)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?tasma\\.ru[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopw, decodeURIComponent)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?shrink-service\\.it[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?djs\\.sk[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, miner)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?mladipodnikatelia\\.sk[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, miner)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?howucan\\.gr[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, miner)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?cloudtime\\.to[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?nowvideo\\.sx[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?sickrage\\.ca[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?tomadivx\\.org[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?videoplayer2\\.xyz[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?wholecloud\\.net[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?123telugu\\.com[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, _0x7bc7)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?netiap\\.com[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, _0x7bc7)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?nxload\\.com[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, miner)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?sleeptimer\\.org[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?hqq\\.watch[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr,  mscript)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?tomadivx\\.tv[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?descargas2020\\.com[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(acis, atob, _0x)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?onplay\\.tv[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, Nimiq)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/:]*\\.)?shortbitsfree\\.net[/:]",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "+js(aopr, WebAssembly)"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://.*/edgemesh\\..*\\.js",
+		"resource-type": [
+			"script"
+		],
+		"unless-domain": [
+			"*edgemesh.com",
+			"*edgeno.de"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://.*/xmr-monero\\.js",
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://.*/adsensebase\\.js",
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^wss?://([^/]+\\.)?megabanners\\.cf([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?rapidvideo\\.com/j5xj_2\\.js",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?rapidvideo\\.com/j5xj_2\\.js"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?reactor\\.cc[^-_.%a-z0-9].*\\.wasm",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?reactor\\.cc[^-_.%a-z0-9].*\\.wasm"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?theappguruz\\.com/vendor/composer/installed\\.js",
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cloudfront\\.net/mmfb2\\.html",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?cloudfront\\.net/mmfb2\\.html"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://.*\\?proxy=",
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vidfile\\.net/.*\\.wasm",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?vidfile\\.net/.*\\.wasm"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/angular8\\.js",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tubetitties\\.com/worker\\.js",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?tubetitties\\.com/worker\\.js"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cryweb\\.github\\.io([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?cryweb\\.github\\.io([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?crywebber\\.github\\.io([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?crywebber\\.github\\.io([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stat0808\\.info([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?stat0808\\.info([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?gofile\\.io/js/coingofile\\.min\\.js",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?gofile\\.io/js/coingofile\\.min\\.js"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*powvldeo\\..*,powv1deo\\..*##\\+js\\(aopw,CoinNebula\\)",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?upgraderservices\\.cf([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?upgraderservices\\.cf([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://.*\\./m5q5\\.js",
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?jshosting\\..*([^-_.%a-za-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?jshosting\\..*([^-_.%a-za-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hostingcloud\\..*([^-_.%a-za-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?hostingcloud\\..*([^-_.%a-za-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^wss?://([^/]+\\.)?185\\.165\\.169\\.108([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/lib/crypta\\.js",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tercabilis\\.info([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?tercabilis\\.info([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*steamplay\\..*##\\+js\\(aopw,CoinNebula\\)",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^wss?://([^/]+\\.)?thepiratebay-proxylist\\.se([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"raw"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?backend\\.dna-delivery\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"if-domain": [
+			"*france.tv",
+			"*rt.com"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cloud-miner\\.eu([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?cloud-miner\\.eu([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+}
+]
